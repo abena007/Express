@@ -1,0 +1,7 @@
+.center{display: flex; justify-content: center; align-content: center;min-height: 92vh; background-color:beige ;gap: 20px;}
+
+.contact{
+    display: flex;gap:20px;flex-direction: column;margin-top: 20px;
+   
+}
+.index{ background-color:beige ;height: 92vh;align-items:center ;justify-content: center;display: flex; flex-direction: column;}
